@@ -1,0 +1,47 @@
+{
+  "streams": [
+    {
+      "title": "title",
+      "description": "desctipino",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Heres some stream",
+      "id": 2
+    },
+    {
+      "title": "funny",
+      "description": "funny stream",
+      "id": 3
+    },
+    {
+      "title": "stream with userid",
+      "description": "interesting userod",
+      "userId": "106293597850070655008",
+      "id": 4
+    },
+    {
+      "title": "unexpected bejavipour",
+      "description": "didnt expect that THIS STREAM IS REFACTORING",
+      "id": 5
+    },
+    {
+      "title": "WOWOWOWasdfasdfasdf",
+      "description": "interesting",
+      "id": 6
+    },
+    {
+      "title": "reusing code PATCH",
+      "description": "wow this is working asdfasdfasdf",
+      "userId": "106293597850070655008",
+      "id": 8
+    },
+    {
+      "title": "MY NEW STERAM",
+      "description": "sdfsdfsdfsdfsdfsd",
+      "userId": "106293597850070655008",
+      "id": 9
+    }
+  ]
+}
